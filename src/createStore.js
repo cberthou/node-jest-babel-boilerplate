@@ -1,3 +1,3 @@
 export default function createStore() {
-    return {};
+  return {};
 }
